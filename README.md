@@ -1,7 +1,8 @@
 ---
 layout: page
-title: README
 permalink: /
 ---
+
+# Junghyeon Park
 
 [[Source]]({{ site.github.repository_url }})
