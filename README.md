@@ -1,8 +1,6 @@
 ---
-layout: page
+layout: home
 permalink: /
 ---
-
-# Junghyeon Park
 
 [[Source]]({{ site.github.repository_url }})
