@@ -3,8 +3,6 @@ layout: home
 permalink: /
 ---
 
-# Junghyeon Park
-
 Quant trader with engineering focus on C++/Rust trading and data systems.
 
 - Email: <j824h@junghyeon.com>
